@@ -1,0 +1,6 @@
+{
+  "name": "HSB3102E Oral Exam Studio",
+  "description": "Hệ thống ngân hàng câu hỏi, rút đề ngẫu nhiên có ràng buộc và chấm thi vấn đáp giữa kỳ môn HSB3102E — Database Design & Development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
